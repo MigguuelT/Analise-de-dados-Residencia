@@ -17,5 +17,5 @@ Storytelling (contexto, processo, descobertas e conclusões).
 
 ## Material complementar:
 
-Tutorial Web Scraping para coletar dados diretamente de sites na internet, disponivel no repositório:
+Alem dos scripts e notebooks disponibilizados neste repositório, escrevi um Tutorial Web Scraping para coletar dados diretamente de sites na internet, disponivel no repositório:
 https://github.com/MigguuelT/Web-scraping
